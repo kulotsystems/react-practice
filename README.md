@@ -13,7 +13,7 @@ but on [Vite](https://vitejs.dev/).
     
     b. Generate your FREE API Key.
     
-    c. Copy [.env-example](.env-example) as [.env](.env) to the same directory.
+    c. Copy [.env-example](.env-example) of this repository as [.env](.env) to its same directory.
     
     d. Write your OMDb API ID and Key to [.env](.env).
     ```.dotenv
