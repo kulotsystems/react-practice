@@ -20,6 +20,7 @@ but on [Vite](https://vitejs.dev/).
     VITE_OMDB_API_ID=YOUR_OMDB_API_ID
     VITE_OMDB_API_KEY=YOUR_OMDB_API_KEY
     ```
+    <sub><sup>NOTE: The `API ID` is the value of `i` query parameter of your API URL.</sup></sub>
 2. Clone or download this repository.
 3. CD into the project root directory.
 4. Run local development server
